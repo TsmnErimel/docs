@@ -1,14 +1,14 @@
 {
   "avo": {
-    "version": 1
+    "version": 2
   },
   "schema": {
     "id": "fwtXqAc0fCLy7b7oGW40",
     "name": "Avo"
   },
   "branch": {
-    "id": "master",
-    "name": "master"
+    "id": "VDuVWCzr4",
+    "name": "command-bar"
   },
   "force": false,
   "sources": [
@@ -16,9 +16,9 @@
       "id": "0j7LzMlx1",
       "name": "Docs",
       "path": "Avo.ts",
-      "actionId": "HCiIra7aMk3oLvDdMvdM",
-      "branchId": "master",
-      "updatedAt": "2021-07-07T23:24:20.120Z"
+      "actionId": "vhe3zkQDUJqtBxPaPqyB",
+      "branchId": "VDuVWCzr4",
+      "updatedAt": "2021-12-20T10:48:46.539Z"
     }
   ]
 }
